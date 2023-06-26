@@ -1,11 +1,14 @@
 # finalCapstone - Finance_calculators
 
+## function of this program
 This is the short program to calculate: 
   1.investment - to calculate the amount of interest you'll earn on your investment
   2. bond - to calculate the amount you'll have to pay on a home loan
 
+### Guides to the program
 There are few inputs for users to input
 
+#### Investment sub-rountine
 1. Choose either a."investment" or b."Bond"
 2a. If choose investment, input the amount of deposit
 3a. Input the interest rate
@@ -13,6 +16,7 @@ There are few inputs for users to input
 5a. Input whether "Simple" or "compound" interest
 6a. Give you the total amount of money after the your input years
 
+##### Bond sub-rountine
 2b. If choose Bond, input your house price
 2c. Input the interest rate
 2d. Input the length of repayment in MONTH
